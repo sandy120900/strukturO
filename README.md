@@ -1,7 +1,1 @@
-"# visi-misi-unpi-manado" 
-"# undangan-bem" 
-"# undangan-bem" 
 "# struktur-organisasi" 
-"# struktur"  
-"# strukturO" 
-"#strukturO"  
